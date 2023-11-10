@@ -14,9 +14,9 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Coding4Fun Education   # the main title
+title: Coding4Fun   # the main title
 
-tagline: Technology's notes about daily work # it will display as the sub-title
+tagline: Technology's notes about daily work on a research and development # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Technology's notes about daily work on a research and development.
@@ -76,7 +76,7 @@ img_cdn: 'https://dnx2pq5xfuvtj.cloudfront.net/'
 # the avatar on sidebar, support local or CORS resources
 avatar: 'coding4fun-logo-main.png'
 
-# boolean type, the global switch for TOC in posts.
+# boolean type, the global switch for TOC (table of content) in posts.
 toc: true
 
 comments:
